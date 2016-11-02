@@ -36,17 +36,6 @@ public class BubbleSort extends SortingAlgorithm {
 					//System.out.println(A.toString());
 			}
 		}
-		// for every pair you find, compare and swap:
-			
-			
-			
-		/**for (int i=l; i<r; i++) {
-			int minimum = i;
-			for (int j=i+1; j<=r; j++)
-				if (A.get(j).compareTo(A.get(minimum))<0)
-					minimum = j;
-			swap (A, i, minimum);
-		}	*/	
 	}
 
 }
